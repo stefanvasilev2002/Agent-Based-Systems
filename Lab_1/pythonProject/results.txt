@@ -1,0 +1,39 @@
+VALUE ITERATION
+-------------------------------------
+Discount factor: 0.5
+Avg steps for 50 episodes: 28.38
+Avg reward for 50 episodes: 0.38
+Avg steps for 100 episodes: 25.73
+Avg reward for 100 episodes: 0.43
+
+Discount factor: 0.7
+Avg steps for 50 episodes: 27.5
+Avg reward for 50 episodes: 0.56
+Avg steps for 100 episodes: 28.8
+Avg reward for 100 episodes: 0.55
+
+Discount factor: 0.9
+Avg steps for 50 episodes: 48.16
+Avg reward for 50 episodes: 0.8
+Avg steps for 100 episodes: 42.95
+Avg reward for 100 episodes: 0.84
+-------------------------------------
+POLICY ITERATION
+-------------------------------------
+Discount factor: 0.5
+Avg steps for 50 episodes: 30.92
+Avg reward for 50 episodes: 0.36
+Avg steps for 100 episodes: 26.27
+Avg reward for 100 episodes: 0.37
+
+Discount factor: 0.7
+Avg steps for 50 episodes: 29.16
+Avg reward for 50 episodes: 0.5
+Avg steps for 100 episodes: 26.39
+Avg reward for 100 episodes: 0.4
+
+Discount factor: 0.9
+Avg steps for 50 episodes: 32.26
+Avg reward for 50 episodes: 0.7
+Avg steps for 100 episodes: 38.13
+Avg reward for 100 episodes: 0.73
